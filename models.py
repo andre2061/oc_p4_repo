@@ -96,19 +96,21 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-28pipPJZvizfcYYETJWBBeDHsrDEz7A06d7Y5swgY/OWmsX0ZJW6mkZVFRO7Z/xZh1D1qFbPHGNixfCd1YpBnA==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-dbca62a4.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-y0yuiXfWuIeCCcUBT1jacp25vWnFCJWgwLM5G1VM4tmCHdoQbiVjvW/vuSuEXUjtS8WwdioTD5hVv9UULiUlww==" type="application/javascript" data-module-id="./chunk-webgl-warp.js" data-src="https://github.githubassets.com/assets/chunk-webgl-warp-cb4cae89.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-qZbRIypXkWZB1E/lrcPh1h/YbWO1VctTEhpxlDqoaP7dc3guToNpKxykwdCjgTFBg1IOYhnrYISKHXxiID7Mbg==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-a996d123.js"></script>
-<script crossorigin="anonymous" defer="defer" integrity="sha512-13W+P3T4HIzCCy087HqurNdeZuSpmKSJxu+dDiTONiGQRVDVGYU8EruEYD+p1aqr0zNvTWUSnEK5QkCSTp2mTw==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-d775be3f.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-mTi4aH11TgdX9yn82pjx3CANEf0FHnzptVoHvXuZtUzZepN7Z6XseTwPKHqhNGzmQCGpElSwOMgB6U6fsUXV1A==" type="application/javascript" src="https://github.githubassets.com/assets/codespaces-9938b868.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-qZbRIypXkWZB1E/lrcPh1h/YbWO1VctTEhpxlDqoaP7dc3guToNpKxykwdCjgTFBg1IOYhnrYISKHXxiID7Mbg==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-a996d123.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-CfJc9iAnfLJnxnvSY41oW/N+iuVSia2CCj/v47XVliM9ACQPKur94EPHnokX0RG8e+FPMhJ2CGy9FfqLYZi4Dg==" type="application/javascript" src="https://github.githubassets.com/assets/topic-suggestions-09f25cf6.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-Y9QCffkHDk3/KAoYUMhKeokbNlXWgpO+53XrccRwhUWzMTxEmhnp1ce7OVWP3vOzhCfWaxxnKWW9eVjjny8nRA==" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-63d4027d.js"></script>
 
   <meta name="viewport" content="width=device-width">
   
-  <title>oc_p4_project/README.md at master · maticha84/oc_p4_project</title>
-    <meta name="description" content="Repo for the  P4 project of OpenClassroom formation - oc_p4_project/README.md at master · maticha84/oc_p4_project">
+  <title>oc_p4_project/models at master · maticha84/oc_p4_project</title>
+    <meta name="description" content="Repo for the  P4 project of OpenClassroom formation - oc_p4_project/models at master · maticha84/oc_p4_project">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/a71ef5c397995ef36a6f129404e4784b123ae5e4eced71d047cf743876c84045/maticha84/oc_p4_project" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="oc_p4_project/README.md at master · maticha84/oc_p4_project" /><meta name="twitter:description" content="Repo for the  P4 project of OpenClassroom formation - oc_p4_project/README.md at master · maticha84/oc_p4_project" />
-    <meta property="og:image" content="https://opengraph.githubassets.com/a71ef5c397995ef36a6f129404e4784b123ae5e4eced71d047cf743876c84045/maticha84/oc_p4_project" /><meta property="og:image:alt" content="Repo for the  P4 project of OpenClassroom formation - oc_p4_project/README.md at master · maticha84/oc_p4_project" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="oc_p4_project/README.md at master · maticha84/oc_p4_project" /><meta property="og:url" content="https://github.com/maticha84/oc_p4_project" /><meta property="og:description" content="Repo for the  P4 project of OpenClassroom formation - oc_p4_project/README.md at master · maticha84/oc_p4_project" />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/a71ef5c397995ef36a6f129404e4784b123ae5e4eced71d047cf743876c84045/maticha84/oc_p4_project" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="oc_p4_project/models at master · maticha84/oc_p4_project" /><meta name="twitter:description" content="Repo for the  P4 project of OpenClassroom formation - oc_p4_project/models at master · maticha84/oc_p4_project" />
+    <meta property="og:image" content="https://opengraph.githubassets.com/a71ef5c397995ef36a6f129404e4784b123ae5e4eced71d047cf743876c84045/maticha84/oc_p4_project" /><meta property="og:image:alt" content="Repo for the  P4 project of OpenClassroom formation - oc_p4_project/models at master · maticha84/oc_p4_project" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="oc_p4_project/models at master · maticha84/oc_p4_project" /><meta property="og:url" content="https://github.com/maticha84/oc_p4_project" /><meta property="og:description" content="Repo for the  P4 project of OpenClassroom formation - oc_p4_project/models at master · maticha84/oc_p4_project" />
     
 
 
@@ -116,11 +118,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89654908/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTY1NDkwOCwicyI6NzkyMjEyMTc0LCJjIjoyNTI5ODI4ODA2LCJ0IjoxNjM4MjI2MjQ4fQ==--af11dafb1ea720aa37a85a87a9d71be9f5ef6226bdc2522ad4f81cf7dd201207" data-refresh-url="/_alive" data-session-id="988b5e61d9fb61cc007f6e6a254c9612cfc41b08b25f88f4fad08a4ba153439b">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89654908/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTY1NDkwOCwicyI6NzkyMjEyMTc0LCJjIjoxNjMyNTczODg3LCJ0IjoxNjM4MjI2MTY3fQ==--4a6e7f2b6bc8aa75dae53ed1ddf71154ee8c46805508fe72456f89419a2f3e5b" data-refresh-url="/_alive" data-session-id="988b5e61d9fb61cc007f6e6a254c9612cfc41b08b25f88f4fad08a4ba153439b">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-5ba606f2.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="85E6:22E0:3C8FC5:3F274C:61A55933" data-pjax-transient="true" /><meta name="html-safe-nonce" content="0c93d774c545a3e70abdf207b530c89bda9b0614690d733ac4a9affbc9ba2cd8" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXRpY2hhODQvb2NfcDRfcHJvamVjdCIsInJlcXVlc3RfaWQiOiI4NUU2OjIyRTA6M0M4RkM1OjNGMjc0Qzo2MUE1NTkzMyIsInZpc2l0b3JfaWQiOiI2OTkyMDEzNzM5Mzg3Mzg4MzQyIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="f56a670b2f17493a9d828a1b1362f7eea5007de5e982b1c31ae1cf3955da39e3" data-pjax-transient="true" />
+  <meta name="request-id" content="85E6:22E0:3C33F8:3EC746:61A558E8" data-pjax-transient="true" /><meta name="html-safe-nonce" content="0c93d774c545a3e70abdf207b530c89bda9b0614690d733ac4a9affbc9ba2cd8" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYXRpY2hhODQvb2NfcDRfcHJvamVjdCIsInJlcXVlc3RfaWQiOiI4NUU2OjIyRTA6M0MzM0Y4OjNFQzc0Njo2MUE1NThFOCIsInZpc2l0b3JfaWQiOiI2OTkyMDEzNzM5Mzg3Mzg4MzQyIiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="98f6b3b773bf7772126d937a54e364740d9d185d42b33bbdf83ce09b4dc9643c" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:375684737" data-pjax-transient>
 
@@ -138,16 +140,12 @@
 
 <meta name="octolytics-url" content="https://collector.githubapp.com/github/collect" /><meta name="octolytics-actor-id" content="89654908" /><meta name="octolytics-actor-login" content="andre2061" /><meta name="octolytics-actor-hash" content="21a62d0cc699af38f5a7bcb1c49b3c2505796bc58a169ab31c34b7a39e56da7d" />
 
-  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/files/disambiguate" data-pjax-transient="true" />
 
   
 
 
 
-  <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20438636352&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20484957397&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20479227424&quot;, &quot;key&quot;: &quot;growth_ghec_onboarding_experience&quot;, &quot;layerId&quot;: &quot;20467848595&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 1000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 3000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 6000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 8000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;85e2238ce2b9074907d7a3d91d6feeae&quot;: &quot;control&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20667381018&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20680930759&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20652570897&quot;, &quot;key&quot;: &quot;project_genesis&quot;, &quot;layerId&quot;: &quot;20672300363&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20667381018&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20680930759&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;83356e17066d336d1803024138ecb683&quot;: &quot;treatment&quot;, &quot;18e31c8a9b2271332466133162a4aa0d&quot;: &quot;treatment&quot;, &quot;10f8ab3fbc5ebe989a36a05f79d48f32&quot;: &quot;treatment&quot;, &quot;1686089f6d540cd2deeaec60ee43ecf7&quot;: &quot;treatment&quot;}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;environmentKey&quot;: &quot;production&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event.do_not_use_in_production&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}], &quot;revision&quot;: &quot;976&quot;}" />
-  <!-- To prevent page flashing, the optimizely JS needs to be loaded in the
-    <head> tag before the DOM renders -->
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-stPGyO+GUOomTBqs1Y5EJnkYCf8cb/wFveUz/ncDr9XaP9olIwZerGQr4wFA3nBNqhbaqHsYbf0NfWJZ6XHjrg==" type="application/javascript" src="https://github.githubassets.com/assets/optimizely-b2d3c6c8.js"></script>
 
 
 
@@ -159,7 +157,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MDMxMzJmM2YwZjI3ZmYyOGFkM2FiNmQ5YzlkMjk5NGI2YmFkMTQ5OTFjNWU5NmVkMTAxNTM3MGQ2NjRmMDdhMHx7InJlbW90ZV9hZGRyZXNzIjoiMTg1LjEzLjEwNi4xMDYiLCJyZXF1ZXN0X2lkIjoiODVFNjoyMkUwOjNDOEZDNTozRjI3NEM6NjFBNTU5MzMiLCJ0aW1lc3RhbXAiOjE2MzgyMjYyNDgsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="NWExYzQyZjc5MzI1ZTFkOTQzNWM2ODlmMDJhZjkwMjU0ZWI0NDU5MDc1NmE3M2Q5OTI4ZTg3MzkxNzA4ODQ0ZXx7InJlbW90ZV9hZGRyZXNzIjoiMTg1LjEzLjEwNi4xMDYiLCJyZXF1ZXN0X2lkIjoiODVFNjoyMkUwOjNDMzNGODozRUM3NDY6NjFBNTU4RTgiLCJ0aW1lc3RhbXAiOjE2MzgyMjYxNjcsImhvc3QiOiJnaXRodWIuY29tIn0=">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -178,7 +176,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/maticha84/oc_p4_project/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/maticha84/oc_p4_project/tree/master/models" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -199,7 +197,7 @@
 
   </head>
 
-  <body class="logged-in env-production page-responsive page-blob" style="word-wrap: break-word;">
+  <body class="logged-in env-production page-responsive" style="word-wrap: break-word;">
     
 
     <div class="position-relative js-header-wrapper ">
@@ -219,7 +217,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="78db9509bcb3e35500fc1c96c9936fa8ae9c12c0c595b584ade1a8b7c8bb2e50" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="06ec913a6a11e65992777a7a54840d1fbd0a5dfbd2b694866db862d634928702" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -269,7 +267,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="DhjMgcYOAQp/og0qg4J58qCoe6W9GHf3zlEhBBtnGocRoG8Alnj0YM+R5XTrgnArgdulOzI+dm3NUqkv6eDagQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="4ph1igqoTeNu4PhbhRn+xnQVeidoajl1uvtAMaoHn5D9INYLWt64id7TEAXtGfcfVWakuedMOO+5+MgaWIBflg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -476,7 +474,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;andre2061&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="e2252168533de47fb4ae6677b2405a15e53471996c2624b9ca4c2fac594e7583" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;andre2061&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="5ea88846b444ad1ed8d2292388502a4a002ff5835dbbfa7a4295b557257d479f" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -485,12 +483,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/89654908?s=40&amp;v=4" width="20" height="20" alt="@andre2061" />
       andre2061
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sU4r1WCMT0SdhdcYzA9Hh66qrnv4KZbc1COaFrsdHWD4pvxwwkZenEQ3p+9YvVURvIcrKaUGuB5yJVYS+U/lZA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Labqo+YnSeE/Kj1azDewnGj6m94b48kLejRoLxwix5VkTj0GRO1YOeaYTa1YhaIKetcejEbM58ncMqQrXnA/kQ==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c7151316bed0a905a9591620194a78299d9d27d0505f429849bc02179e60e035" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="df67f0bf2ca36b2bd35472a135575a54f58a39dd41b297f785ac3c6ecbd013a5" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -507,7 +505,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="78db9509bcb3e35500fc1c96c9936fa8ae9c12c0c595b584ade1a8b7c8bb2e50" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="06ec913a6a11e65992777a7a54840d1fbd0a5dfbd2b694866db862d634928702" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -523,7 +521,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODk2NTQ5MDgiLCJ0IjoxNjM4MjI2MjQ4fQ==--2b2137635fd96e0b86b333b9e8257b76831e0684e3a49ac130e09bf881e5bd77">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODk2NTQ5MDgiLCJ0IjoxNjM4MjI2MTY3fQ==--2558354590f4fa411a8a0f2ae49e7254626f86a1b24f3b2faaa13668248d54ea">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -546,7 +544,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="bfa83792f6de2615a41e2fc0dcfb7300dd0f24e9e88d6e2d9b8ee87aa1b7a038" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="fc810e9ad8fd0ba9c876d8e28288eb86e799ef79e37635136abf5973e40cba91" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -584,7 +582,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="8a835d1117aa0fab00f12a727d61e7a234d235c680d405b128856edc4bb79fc7" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="0b8e6adf8e040f4fce913eba95ab71dea81b40dcae59b9a022e040856a237a43" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
   >
     <img src="https://avatars.githubusercontent.com/u/89654908?s=40&amp;v=4" alt="@andre2061" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -658,14 +656,14 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit">
     <command-palette
       class="command-palette color-bg-default rounded-3"
-      data-return-to=/maticha84/oc_p4_project/blob/master/README.md
+      data-return-to=/maticha84/oc_p4_project/tree/master/models
       data-user-id="89654908"
       >
-      <input type="hidden" value="/i0rfaAfJawFI7xIMIlUCqqjOR7Ndpm1ZZV46CeyoUcTDqCF5GJzFWBaKV9SfwznCay8EQXY3p/yClbEG7wavg==" data-csrf="true" class="js-graphql-csrf" />
+      <input type="hidden" value="7NHG4pAyBic7nNucDa3XrdGWlQa39Iqkq6PWmuZ8i5gB8k0a1E9Qnl7lTotvW49AcpkQCX9azY48PPi22nIwYQ==" data-csrf="true" class="js-graphql-csrf" />
       <iframe class="d-none js-command-palette-commands" sandbox="allow-scripts allow-same-origin" srcdoc="<script crossorigin=&quot;anonymous&quot; defer=&quot;defer&quot; integrity=&quot;sha512-2Jz3lq/Gk0f8RePMFf+bUCfw6LwZ3nXfh3AQmMFOUj5cIW/rCeZcWRFO/q0l00bbLMcdXkpDj6KvP9Ny2qh8QA==&quot; type=&quot;application/javascript&quot; src=&quot;https://github.githubassets.com/assets/command-runner-d89cf796.js&quot;></script>
 " aria-hidden="true" data-url="https://github.com"></iframe>
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="ZhNBjA2WpdLgNjdVIC7K5MMQ8H5mEyzwOwNmXyKU6+9wOVgy1ZCoaYuhJrfh74j+/57bXTbyTPmRJBWdS6PcDg==" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="k9HNzY+RFZxMSiPtCTycK2YkSXnA2rzCTu6F3TXpmQOF+9RzV5cYJyfdMg/I/d4xWqpiWpA73MvkyfYfXN6u4g==" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1290,7 +1288,6 @@
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main id="js-repo-pjax-container" data-pjax-container >
       
-
     
 
 
@@ -1330,7 +1327,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="73ef27e45867d3ab5522ff0e11ed3210104ff6fd2789f09cf468e4d10c7a53e2" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="rounded-right-0 btn-sm btn">
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="f34f30879ebbab8ca7937c7879091db2be16902a80b78f324f5f8ca838ca5125" data-ga-click="Repository, click Watch settings, action:files#disambiguate" aria-label="Notification settings" data-view-component="true" class="rounded-right-0 btn-sm btn">
   
   
           <span data-menu-button>
@@ -1387,7 +1384,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Vbtr+jVnbv2WQDZbLvk7Ql/A0Aolbo21SAv5tiUKPZEoWsUaOSN4/SZI9B1v7scVlk8IPKbNv/Ri6UecuXV6WA==" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="M1QJigsrv7iPI4znESx14qOBfQQKfAywmzLgdWWHfm5OtadqB2+puD8rTqFQO4m1ag6lMonfPvGx0F5f+fg5pw==" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="375684737">
 
@@ -1510,7 +1507,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Q31C6hyYDKweromPmG0hE80X0h/VqWmEwZjJMR2m7Lk+nOwKENwarK6mS8nZet1EBJgKKVYKW8XrencbgdmrcA==" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TPB2KEJREV9xbLioqzaO3UKvwPaUkx8E695cYze9b5kxEdjIThUHX8Fkeu7qIXKKiyAYwBcwLUXBPOJJq8IoUA==" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="375684737">
 
@@ -1668,9 +1665,9 @@
 
     <li>
           <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-block">
-    <form class="starred js-social-form" action="/maticha84/oc_p4_project/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8c2IppIbFOmzsezpN0hejBdWp3b6UH8w75g8vASRCGhghdq/12NitSBdVxZzHbbLvoOTRTlgT/sF9nMFUkP+6w==" autocomplete="off" />
+    <form class="starred js-social-form" action="/maticha84/oc_p4_project/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gK11utaC0BcTGfYoqbZ0BQV9h4Ajx4wB6NmvWQQ+iOMR5Sejk/qmS4D1Tdft45xCrKizs+D3vMoCt+DgUux+YA==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="60b182d9fc0fdd787b3d047cd2d7d730ca39a797ca331eb784080628c194452e" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="0994f5b8cf490facd13587291db0f3967c02352927de498a9d81ae5a431ec5a0" data-ga-click="Repository, click unstar button, action:files#disambiguate; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
@@ -1690,9 +1687,9 @@
           0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/maticha84/oc_p4_project/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J7DqmRXMHeF0J8qipK24p+DgSyasv6EnOHZ+jAOp+2oiw6G0uqwq0ZqLftqX9Bqnq2MFJWunAz+QTBoElNJ5jw==" autocomplete="off" />
+    <form class="unstarred js-social-form" action="/maticha84/oc_p4_project/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Dg5JYlerXaWMpyM8lWayqj1E2iyYpWTYmM+sCMdoWCILfQJP+MtqlWILl0SmPxCqdseUL1+9xsAw9ciAUBPaxw==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="5c374df4fd6abd1721c9a2a919fb1d218b4ac48ea6629f866453004892966f10" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="706eb61dadaa6f57be39b0e90fdb178199b4035fc96883daf09de7b7405222a2" data-ga-click="Repository, click star button, action:files#disambiguate; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
@@ -1716,8 +1713,8 @@
     </li>
 
     <li>
-              <form class="btn-with-count" action="/maticha84/oc_p4_project/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fRqkRJL5CVNg8TgCRYfAuxDJmcLpdCIPt+CtMxX9OMfVjj2gC11wSrk5L1uprxavIOlPWYdUNnPOkZJmJ4gW7A==" autocomplete="off" />
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="7557f84a10c00150274c4af0bf27f2a7ab62f87c7b9adb679f41efb9102c3c6f" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of maticha84/oc_p4_project to your account" type="submit" data-view-component="true" class="btn-with-count btn-sm btn">
+              <form class="btn-with-count" action="/maticha84/oc_p4_project/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vYQmfe/vrp/V/JcDOm80e3tfgTsQ9AsR608lkD5KqacVEL+ZdkvXhgw0gFrWR+JvS39XoH7UH22SPhrFDD+HjA==" autocomplete="off" />
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="317a2c8551bb2b79941539af6a78c44144acd567c6090062f8af9362185c8266" data-ga-click="Repository, show fork modal, action:files#disambiguate; text:Fork" aria-label="Fork your own copy of maticha84/oc_p4_project to your account" type="submit" data-view-component="true" class="btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
@@ -1911,18 +1908,9 @@
 
     
       
-  
-  
-<div>
-  
-
-
-
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/maticha84/oc_p4_project/blob/945538e19b71067119f99e0dc98eba7f5e3e9600/README.md">Permalink</a>
-
-
-    <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
-      
+  <div>
+  <div class="file-navigation mb-3 d-flex flex-items-start">
+    
 <div class="position-relative">
   <details class="details-reset details-overlay mr-0 mb-0 " id="branch-select-menu">
     <summary class="btn css-truncate"
@@ -2007,7 +1995,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/maticha84/oc_p4_project/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/maticha84/oc_p4_project/tree/{{ urlEncodedRefName }}/models" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2047,7 +2035,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/maticha84/oc_p4_project/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/maticha84/oc_p4_project/tree/{{ urlEncodedRefName }}/models" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2080,509 +2068,301 @@
 
 </div>
 
-      <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/maticha84/oc_p4_project"><span>oc_p4_project</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
-      </h2>
-      <a href="/maticha84/oc_p4_project/find/master"
-            class="js-pjax-capture-input btn mr-2 d-none d-md-block"
-            data-pjax
-            data-hotkey="t">
-        Go to file
-      </a>
 
-      <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
-  <summary role="button" data-view-component="true" class="btn">
+    <div class="flex-1 mx-2 flex-self-center f4">
+      <div class="d-none d-sm-block">
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/maticha84/oc_p4_project"><span>oc_p4_project</span></a></span></span><span class="mx-1">/</span><strong class="final-path">models</strong><span class="mx-1">/</span>
+      </div>
+    </div>
+
+    <div class="d-flex">
+      <a class="btn mr-2 d-none d-md-block" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="9f6977841cb1de163abce3626b0efdde87a65c70399e15b67e58d1b6985009ad" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/maticha84/oc_p4_project/find/master">
+        Go to file
+</a>
+        <details data-view-component="true" class="details-overlay details-reset position-relative d-block">
+  <summary role="button" data-view-component="true">            <span class="btn d-none d-md-flex flex-items-center">
+              Add file
+              <span class="dropdown-caret ml-1"></span>
+            </span>
+            <span class="btn d-inline-block d-md-none">
+              <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+            </span>
+</summary>
+  <div data-view-component="true">            <ul class="dropdown-menu dropdown-menu-sw">
+              <li class="d-block d-md-none">
+                <a class="dropdown-item" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="9f6977841cb1de163abce3626b0efdde87a65c70399e15b67e58d1b6985009ad" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/maticha84/oc_p4_project/find/master">
+                  Go to file
+</a>              </li>
+                <li class="d-block d-md-none dropdown-divider" role="none"></li>
+                <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/maticha84/oc_p4_project/new/master/models" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="V1iv/uHHg1spBhGj4b/sIp0Xk0OkXbVVcJPUM1QKNRyDLezvdJz1zikypyzlJK4t8AIG4Uokmq2DGJjW/rYIxg==" />
+  <button type="submit" data-view-component="true" class="dropdown-item btn-link">
   
-            <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+  
+    Create new file
+
+  
+
+</button></form></li>
+
+                <li><a href="/maticha84/oc_p4_project/upload/master/models" class="dropdown-item">
+  Upload files
+</a></li>
+
+                <li class="d-block d-md-none dropdown-divider" role="none"></li>
+                <li class="d-block d-md-none">
+                  <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/maticha84/oc_p4_project/tree/delete/master/models" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Uaach/8W4Co6VsgcgjbjaTxIDoMOL3+Us7ksisvtCgAP4TOhmrGEqHyQINRiDyofvD1idISzr4Bcgcv0rCgY2w==" />
+  <button type="submit" data-view-component="true" class="dropdown-item menu-item-danger btn-link">
+  
+  
+    Delete directory
+
+  
+
+</button></form>
+                </li>
+            </ul>
+</div>
+</details>
+          <details data-view-component="true" class="details-overlay details-reset position-relative">
+  <summary role="button" data-view-component="true" class="btn d-none d-md-block ml-md-2">
+  
+                <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
 </svg>
 
   
 
 </summary>
-  <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
-            <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="56b159084a23c5ef81947d54dc4e2e524a12e42940e87a8131511a81c9edbf2e" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/maticha84/oc_p4_project/find/master">
-                <span class="flex-auto">Go to file</span>
-                <span class="text-small color-fg-muted" aria-hidden="true">T</span>
-</a>            </li>
-            <li data-toggle-for="blob-more-options-details">
-              <button data-toggle-for="jumpto-line-details-dialog" type="button" data-view-component="true" class="dropdown-item btn-link">
+  <div data-view-component="true">              <ul class="dropdown-menu dropdown-menu-sw">
+                <li class="d-none d-md-block">
+                  <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/maticha84/oc_p4_project/tree/delete/master/models" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Mt3IJ4eJR0VHscJo/Dh+fnFE+3aBnwxds9L5wW3uhmNsmmcB4i4jxwF3KqAcAbcI8TGXgQsD3Elc6h6/CiuUuA==" />
+  <button type="submit" data-view-component="true" class="dropdown-item menu-item-danger btn-link">
   
   
-                <span class="d-flex flex-items-baseline">
-                  <span class="flex-auto">Go to line</span>
-                  <span class="text-small color-fg-muted" aria-hidden="true">L</span>
-                </span>
+    Delete directory
 
   
 
-</button>            </li>
-            <li class="dropdown-divider" role="none"></li>
-            <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
-    
-                Copy path
-
-</clipboard-copy>            </li>
-            <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/maticha84/oc_p4_project/blob/945538e19b71067119f99e0dc98eba7f5e3e9600/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
-    
-                <span class="d-flex flex-items-baseline">
-                  <span class="flex-auto">Copy permalink</span>
-                </span>
-
-</clipboard-copy>            </li>
-          </ul>
+</button></form>
+                </li>
+              </ul>
 </div>
 </details>    </div>
-
-
-
-
-    <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/maticha84/oc_p4_project/contributors/master/README.md" class="commit-loader">
-        <div class="Box-header d-flex flex-items-center">
-          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-        </div>
-
-        <div class="Box-body d-flex flex-items-center" >
-          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
-        </div>
-</include-fragment>    </div>
-
-
-      
-
-
-
-
-
-
-
-    <readme-toc>
-
-    <div data-target="readme-toc.content" class="Box mt-3 position-relative">
-      
-  <div
-    class="Box-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
-  >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}"
-  data-menu-hydro-click-hmac="197486712f52d8e44842d1d66630d80ceeaa71ea1631aad5bcd6b63ba86dde15"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="toc-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter headings"
-            aria-label="Filter headings">
-        </div>
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c94f1b05f7d4251e93cd3e9adc6995b2288402d5abfc9339b990f41cefd5f5fa" href="#chess-tournament-management">Chess tournament management</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c94f1b05f7d4251e93cd3e9adc6995b2288402d5abfc9339b990f41cefd5f5fa" href="#how-to-execute-the-application-">How to execute the application ?</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c94f1b05f7d4251e93cd3e9adc6995b2288402d5abfc9339b990f41cefd5f5fa" href="#help-for-this-application">Help for this application</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c94f1b05f7d4251e93cd3e9adc6995b2288402d5abfc9339b990f41cefd5f5fa" href="#flake8-report">Flake8 report</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c94f1b05f7d4251e93cd3e9adc6995b2288402d5abfc9339b990f41cefd5f5fa" href="#presentation-of-this-application">Presentation of this application</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c94f1b05f7d4251e93cd3e9adc6995b2288402d5abfc9339b990f41cefd5f5fa" href="#tournaments-management">Tournaments management</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c94f1b05f7d4251e93cd3e9adc6995b2288402d5abfc9339b990f41cefd5f5fa" href="#players-management">Players management</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c94f1b05f7d4251e93cd3e9adc6995b2288402d5abfc9339b990f41cefd5f5fa" href="#reports">Reports</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c94f1b05f7d4251e93cd3e9adc6995b2288402d5abfc9339b990f41cefd5f5fa" href="#exit">Exit</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
-
-
-  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
-
-      170 lines (111 sloc)
-      <span class="file-info-divider"></span>
-    4.64 KB
   </div>
 
-  <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-    <a href="/maticha84/oc_p4_project/blob/master/README.md?plain=1" data-permalink-href="/maticha84/oc_p4_project/blob/945538e19b71067119f99e0dc98eba7f5e3e9600/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-  
-  
+  <div class="f4 mt-3 mb-3 d-sm-none"><span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/maticha84/oc_p4_project"><span>oc_p4_project</span></a></span></span><span class="mx-1">/</span><strong class="final-path">models</strong><span class="separator mx-1">/</span></div>
 
-</a>    <a href="/maticha84/oc_p4_project/blob/master/README.md" data-permalink-href="/maticha84/oc_p4_project/blob/945538e19b71067119f99e0dc98eba7f5e3e9600/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
-</svg>
-  
-  
-
-</a>  </div>
-
-
-    <div class="BtnGroup">
-      <a href="/maticha84/oc_p4_project/raw/master/README.md" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">
-  
-  Raw
-  
-
-</a>
-        <a href="/maticha84/oc_p4_project/blame/master/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
-  
-  Blame
-  
-
-</a>
-    </div>
-
-    <div>
-          <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
-             data-platforms="windows,mac"
-             href="https://desktop.github.com"
-             aria-label="Open this file in GitHub Desktop"
-             data-ga-click="Repository, open with desktop">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
-    <path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path>
-</svg>
-          </a>
-
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/maticha84/oc_p4_project/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c28c7eda199e16473f83815237a57fd2418f1308e6ee96318a2f6e6f216a07e5" aria-label="Copy raw contents">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
-    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
+<div class="Box mb-3">
+  <div class="Box-header position-relative">
+    <h2 class="sr-only">Latest commit</h2>
+    <div class="js-details-container Details d-flex rounded-top-1 flex-items-center flex-wrap" data-issue-and-pr-hovercards-enabled>
+      <include-fragment src="/maticha84/oc_p4_project/tree-commit/945538e19b71067119f99e0dc98eba7f5e3e9600/models" class="d-flex flex-auto flex-items-center" aria-busy="true" aria-label="Loading latest commit">
+        <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+        <div class="Skeleton Skeleton--text col-5 ml-3">&nbsp;</div>
+</include-fragment>      <div class="flex-shrink-0">
+        <h2 class="sr-only">Git stats</h2>
+        <ul class="list-style-none d-flex">
+          <li class="ml-0 ml-md-3">
+            <a data-pjax="#repo-content-pjax-container" href="/maticha84/oc_p4_project/commits/master/models" class="pl-3 pr-3 py-3 p-md-0 mt-n3 mb-n3 mr-n3 m-md-0 Link--primary no-underline no-wrap">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
-</span></span>
-  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">            <span role="status">
-  <span class="sr-only">Loading</span>
-  <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
-    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg></span>
-
-</span>
-  <span data-target="remote-clipboard-copy.success" hidden="hidden">            <span class="tooltipped tooltipped-nw" aria-label="Copied!">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-            </span>
-</span>
-  <span data-target="remote-clipboard-copy.error" hidden="hidden">            <span class="tooltipped tooltipped-nw" aria-label="Something went wrong. Try again.">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
-    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
-</svg>
-            </span>
-</span>
-</remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/maticha84/oc_p4_project/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Pyun+D0RhhyrYXWg7lH50+B0k0hY/XEz9peOkDCNF+X5NGcfENR1OEL08yKjbsE+brCl9bpKQT1+S7pTg5HqZA==" />
-            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
-    <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
-</svg>
-            </button>
-</form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/maticha84/oc_p4_project/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GFrK1+QO00qB7OeeIVM/jIHMrgyaLigO0DKtEvSYBT+0Jxwuxfb4K2bfzFvthQ/8LGFcPtulCLkTRYfr5c5UTQ==" />
-            <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Fork this project and delete the file" data-disable-with>
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
-    <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
-</svg>
-            </button>
-</form>    </div>
-  </div>
-
-    <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
-      <details class="dropdown details-reset details-overlay d-inline-block">
-        <summary class="btn-octicon p-2" aria-haspopup="true" aria-label="possible actions">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
-    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
-</svg>
-        </summary>
-
-        <ul class="dropdown-menu dropdown-menu-sw" style="width: 175px">
-            <li>
-                <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
-                   data-platforms="windows,mac"
-                   href="https://desktop.github.com"
-                   data-ga-click="Repository, open with desktop">
-                  Open with Desktop
-                </a>
-            </li>
-          <li>
-            <a class="dropdown-item" href="/maticha84/oc_p4_project/raw/master/README.md">
-              View raw
+              <span class="d-none d-sm-inline">
+                  <strong>History</strong>
+              </span>
             </a>
           </li>
-            <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/maticha84/oc_p4_project/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
-  
+        </ul>
+      </div>
+    </div>
+  </div>
+    <h2 id="files"  class="sr-only">Files</h2>
+    
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:375684737,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="c28c7eda199e16473f83815237a57fd2418f1308e6ee96318a2f6e6f216a07e5">
-                    Copy raw contents
-</span></span>
-  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
-                  <span class="d-inline-block position-relative" style="top: 3px">
-                    <span role="status">
-  <span class="sr-only">Loading</span>
-  <svg aria-label="fetching contents…" style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
-    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg></span>
 
-                  </span>
-</span>
-  <span data-target="remote-clipboard-copy.success" hidden="hidden">                  Copy raw contents
-                  <svg aria-label="Copied!" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-</span>
-  <span data-target="remote-clipboard-copy.error" hidden="hidden">                  Copy raw contents
-                  <svg aria-label="Something went wrong. Try again." role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+  <include-fragment src="/maticha84/oc_p4_project/file-list/master/models">
+      <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/maticha84/oc_p4_project/tree/945538e19b71067119f99e0dc98eba7f5e3e9600/models">Permalink</a>
+
+  <div data-view-component="true" class="include-fragment-error flash flash-error flash-full py-2">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
     <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
 </svg>
-</span>
-</remote-clipboard-copy>            </li>
-            <li>
-              <a class="dropdown-item" href="/maticha84/oc_p4_project/blame/master/README.md">
-                View blame
-              </a>
-            </li>
+  
+    Failed to load latest commit information.
 
-              <li class="dropdown-divider" role="none"></li>
-              <li>
-                <a class="dropdown-item" href="/maticha84/oc_p4_project/edit/master/README.md">Edit file</a>
-              </li>
-              <li>
-                <a class="dropdown-item menu-item-danger" href="/maticha84/oc_p4_project/delete/master/README.md">Delete file</a>
-              </li>
-        </ul>
-      </details>
-    </div>
-</div>
-
-
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-chess-tournament-management" class="anchor" aria-hidden="true" href="#chess-tournament-management"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Chess tournament management</h1>
-<hr>
-<p dir="auto">The aim of this application is to manage offline chess tournaments.
-You can create new tournaments, new players, add some players to a tournament,
-start and stop rounds, add results, and at the end, add new ELO rank.
-You can also view ranking, for a tournament or general, view all tournaments
-registered in the base, or the information of one tournament.
-You can at least modify elements of one player or one tournament, at any time.</p>
-<h2 dir="auto"><a id="user-content-how-to-execute-the-application-" class="anchor" aria-hidden="true" href="#how-to-execute-the-application-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>How to execute the application ?</h2>
-<hr>
-<p dir="auto">At first, you have to install <em><strong>python3</strong></em> (I use the 3.9.6 version).
-You can find on the official site
-<a href="https://www.python.org/downloads/" rel="nofollow">Python</a> your version for
-Windows /Linux/ Mac.</p>
-<p dir="auto">Then you need to install a new environment for running the application,
-containing the packages included in the file
-<a href="https://github.com/maticha84/oc_p4_project/blob/master/requirements.txt">requirement.txt</a>
-.To do this, please follow the instructions below:</p>
-<p dir="auto">Create a virtual environment at the root of the project, using the command
-python -m venv env. Then, activate this environment :</p>
-<ul dir="auto">
-<li><em>Windows</em>: <strong>venv\Scripts\activate.bat</strong></li>
-<li><em>Linux</em> &amp; <em>Mac</em>: <strong>source venv/Scripts/activate</strong></li>
-</ul>
-<p dir="auto">After that, install the requirement.txt with using this command :
-<strong>pip install -r requirements.txt</strong></p>
-<p dir="auto">Now you can start the application by running the main.py file: <strong>py main.py</strong></p>
-<h2 dir="auto"><a id="user-content-help-for-this-application" class="anchor" aria-hidden="true" href="#help-for-this-application"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Help for this application</h2>
-<hr>
-<p dir="auto">To read some help about this application, you can use the command :
-<strong>py -m pydoc -b</strong> at the root of the project. It will open a browser page
-with the html help. it retrieves the docstrings present in the modules,
-describing the functioning of the different classes, methods and functions.</p>
-<p dir="auto">You can also retreive this documentation here :
-<a href="https://github.com/maticha84/oc_p4_project/tree/master/docstrings_html">docstrings html</a></p>
-<h2 dir="auto"><a id="user-content-flake8-report" class="anchor" aria-hidden="true" href="#flake8-report"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Flake8 report</h2>
-<hr>
-<p dir="auto">You can find a flake8 report here :
-<a href="https://github.com/maticha84/oc_p4_project/tree/master/flake8_rapport">report</a></p>
-<p dir="auto">You can also do this command to make a new flake report, according the
-specifications :</p>
-<p dir="auto"><strong>flake8 --format html --htmldir flake8_rapport
---max-line-length 119 main.py controllers models views</strong></p>
-<h2 dir="auto"><a id="user-content-presentation-of-this-application" class="anchor" aria-hidden="true" href="#presentation-of-this-application"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Presentation of this application</h2>
-<hr>
-<p dir="auto">At first, when you start the application, you have a main menu :</p>
-<ol dir="auto">
-<li><a href="#tournaments-management">Tournaments management</a></li>
-<li><a href="#players-management">Players management</a></li>
-<li><a href="#reports">Reports</a></li>
-<li><a href="#exit">Exit</a></li>
-</ol>
-<p dir="auto">For interact with the application, you just have to enter
-your menu choice.</p>
-<h3 dir="auto"><a id="user-content-tournaments-management" class="anchor" aria-hidden="true" href="#tournaments-management"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tournaments management</h3>
-<hr>
-<p dir="auto">In this part of the application, you can manage a tournament.</p>
-<ol dir="auto">
-<li>Add new tournament</li>
-</ol>
-<p dir="auto">in this part, you can configure a new tournament, with all options
-like name, place of tournament, date start and stop, control time
-(blitz, bullet or quick), number of even players, number of rounds,
-director description</p>
-<ol start="2" dir="auto">
-<li>View all tournaments</li>
-</ol>
-<p dir="auto">this way displays all tournaments known in the base.</p>
-<ol start="3" dir="auto">
-<li>Modify on tournament</li>
-</ol>
-<p dir="auto">This option allows you to modify elements of tournament :</p>
-<ul dir="auto">
-<li>
-<p dir="auto">add players</p>
-</li>
-<li>
-<p dir="auto">starting round</p>
-</li>
-<li>
-<p dir="auto">ending round and add results</p>
-</li>
-<li>
-<p dir="auto">view results of tournament</p>
-</li>
-</ul>
-<ol start="4" dir="auto">
-<li>Return to main menu</li>
-</ol>
-<h3 dir="auto"><a id="user-content-players-management" class="anchor" aria-hidden="true" href="#players-management"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Players management</h3>
-<hr>
-<p dir="auto">In this part of the application, you can manage the players</p>
-<ol dir="auto">
-<li>add players</li>
-</ol>
-<p dir="auto">Allow you to add new players. You will be able to fill in the surname,
-first name, date of birth, gender and the ELO rating already known to
-the user. If this ranking does not exist (new player), by default the
-application will give a ranking of 1000.</p>
-<ol start="2" dir="auto">
-<li>view all players</li>
-</ol>
-<p dir="auto">this way displays all players known in the base.</p>
-<ol start="3" dir="auto">
-<li>Modify one player</li>
-</ol>
-<p dir="auto">This option allows you to modify elements of player :</p>
-<ul dir="auto">
-<li>name</li>
-<li>first name</li>
-<li>date of birth</li>
-<li>sex</li>
-<li>ELO rank</li>
-</ul>
-<ol start="4" dir="auto">
-<li>Return to main menu</li>
-</ol>
-<h3 dir="auto"><a id="user-content-reports" class="anchor" aria-hidden="true" href="#reports"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Reports</h3>
-<hr>
-<p dir="auto">This section can present you all statistics of tournaments and players
-(ELO rank, ranking by score or by name, information about tournament,
-rounds and matches...)</p>
-<ol dir="auto">
-<li>View all players - by rank</li>
-</ol>
-<p dir="auto">Display all players known in the base, sorted by ELO rank</p>
-<ol start="2" dir="auto">
-<li>View all players - by name</li>
-</ol>
-<p dir="auto">Display all players known in the base, sorted by surname</p>
-<ol start="3" dir="auto">
-<li>View list of all tournaments</li>
-</ol>
-<p dir="auto">Display a list of all tournaments known in the base.</p>
-<ol start="4" dir="auto">
-<li>View informations of one specific tournament</li>
-</ol>
-<p dir="auto">You can choose one tournament to view information about it.</p>
-<ul dir="auto">
-<li>View players - by score</li>
-</ul>
-<p dir="auto">Display the list of tournament's player, sorted by scores</p>
-<ul dir="auto">
-<li>View players - by name</li>
-</ul>
-<p dir="auto">Display the list of tournament's players, sorted by surname</p>
-<ul dir="auto">
-<li>View list of rounds and matches</li>
-</ul>
-<p dir="auto">Display all rounds and matches played in the tournament</p>
-<ul dir="auto">
-<li>View all other informations</li>
-</ul>
-<p dir="auto">Display all other information of the tournament, like place,
-control time, and director description.</p>
-<ol start="0" dir="auto">
-<li>Return main menu</li>
-</ol>
-<h3 dir="auto"><a id="user-content-exit" class="anchor" aria-hidden="true" href="#exit"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Exit</h3>
-<hr>
-<p dir="auto">This option quit the application.</p>
-</article>
-  </div>
-
-    </div>
-
-  </readme-toc>
 
   
+</div>  <div class="js-details-container Details">
+    <div role="grid" aria-labelledby="files" class="Details-content--hidden-not-important js-navigation-container js-active-navigation-container d-block" data-pjax>
+      <div class="sr-only" role="row">
+        <div role="columnheader">Type</div>
+        <div role="columnheader">Name</div>
+        <div role="columnheader" class="d-none d-md-block">Latest commit message</div>
+        <div role="columnheader">Commit time</div>
+      </div>
+        <div role="row" class="Box-row Box-row--focus-gray p-0 d-flex js-navigation-item" >
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2">
+            <a rel="nofollow" title="Go to parent directory" class="js-navigation-open d-block py-2 px-3" href="/maticha84/oc_p4_project">
+              <span class="text-bold text-center d-inline-block" style="min-width: 16px;">. .</span>
+</a>          </div>
+          <div role="gridcell" class="d-none d-md-block"></div>
+          <div role="gridcell"></div>
+        </div>
 
-  <details class="details-reset details-overlay details-overlay-dark" id="jumpto-line-details-dialog">
-    <summary data-hotkey="l" aria-label="Jump to line"></summary>
-    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get">
-        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
-        <button data-close-dialog="" type="submit" data-view-component="true" class="btn">
-  
-  Go
-  
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
 
-</button>
-</form>    </details-dialog>
-  </details>
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="__init__.py" data-pjax="#repo-content-pjax-container" href="/maticha84/oc_p4_project/blob/master/models/__init__.py">__init__.py</a></span>
+          </div>
 
-    <div class="Popover anim-scale-in js-tagsearch-popover"
-     hidden
-     data-tagsearch-url="/maticha84/oc_p4_project/find-definition"
-     data-tagsearch-ref="master">
-  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
-    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="backup_restore_players.py" data-pjax="#repo-content-pjax-container" href="/maticha84/oc_p4_project/blob/master/models/backup_restore_players.py">backup_restore_players.py</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="backup_restore_round.py" data-pjax="#repo-content-pjax-container" href="/maticha84/oc_p4_project/blob/master/models/backup_restore_round.py">backup_restore_round.py</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="backup_restore_tournament.py" data-pjax="#repo-content-pjax-container" href="/maticha84/oc_p4_project/blob/master/models/backup_restore_tournament.py">backup_restore_tournament.py</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="player.py" data-pjax="#repo-content-pjax-container" href="/maticha84/oc_p4_project/blob/master/models/player.py">player.py</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="rounds.py" data-pjax="#repo-content-pjax-container" href="/maticha84/oc_p4_project/blob/master/models/rounds.py">rounds.py</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="tournament.py" data-pjax="#repo-content-pjax-container" href="/maticha84/oc_p4_project/blob/master/models/tournament.py">tournament.py</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <div class="Skeleton Skeleton--text">&nbsp;</div>
+          </div>
+
+        </div>
     </div>
   </div>
+
+</include-fragment>
+
+
 </div>
 
+  
 
 </div>
 
@@ -2612,16 +2392,16 @@ control time, and director description.</p>
       </li>
     </ul>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-start flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="cfe4e59b13a901ab791ce665f7f12cbc36f7c13c9f97cb694b41cc98b2cc5568" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="b6d8c7e86bff90a63fd44c7ecc0d057b8b74686a20d98cde1022974e216825b7" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="7885a5bc6a1c6473749f021ac2bac642ce4c9c3a015241d4dcbc7ab0ecf32167" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="0a81bf549444b42156bb94657d51e9a6226274d614dc996975b3c6488668b317" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="800fdabff7d6739b41f26a9b42d2f4a8f908e2e10338575d27a8eada67a4cc44" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="0b06a56cde9a094a473236cc0ea6485f336c3ca5c8abd98270b67182a59ed0e7" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="403a6882dc7d618d2c9ccf6cebc878c124fa6fa242c211c5fb6977a8f307bb9b" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="83cf359a9d9738cd7954af195fc5651862d0955672d27ed6c9c3d6a13284751f" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="2696b5766c0bb59d1bd1c53055551c0c27d2d1a4fcdf5db6de1b374102e362d0" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="8fe05d58c769dabe4d83ccdeb586fe4f9861ad03cbf0c484f8579aa10064a209" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="263983cdd644ffaf974cf577eb199d5e503c278a39627eb1610cb67b064a5ef7" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="4930b51a8620014b9af840a7f81f1178723c10c3fbb86e9f967d38991ee0ecac" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/blob/master/README.md&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="3ccc237f4635ea7c6bbd2c74930e72e66c97fd1d36bd38ad06195b3a8fd24ad0" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="1c07fb964ec54b36dcb5f12f2494a3887f7784f90636c44cb3b6ad305c98cae2" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="807f0524d5790239fa2b68378008b0aca0c0dc1e23c3aa4bdeae161c5bac3e83" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="d2dd79f053f251ae89aecaee78243987cd3f97862b2a76ae365ea875722c0b84" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="4f8333abc83c256f9d7d95e687cea245002e81621e422fc366ad4eac980e8aab" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/maticha84/oc_p4_project/tree/master/models&quot;,&quot;user_id&quot;:89654908}}" data-hydro-click-hmac="707f4e096000587d9ebb179e6b593db614ad736eb167aeac2a5ec5ff337d52cd" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
